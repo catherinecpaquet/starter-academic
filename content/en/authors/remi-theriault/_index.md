@@ -65,10 +65,6 @@ email: ""
 
 ---
 
-I am currently completing a PhD in Psychology. My research interests are broad and include human development, educational and positive psychology. I am really interested in learning about advanced statistics, especially longitudinal analyses (multilevel modeling and SEM).
+I am currently completing a PhD in Psychology, the founder of Entropy, a scientific podcast, and also the creator of the Instagram page @giftedness.science. I also publish blog posts as a student ambassador of the Canadian Positive Psychology Association and I have a Youtube channel dedicated to science. My research interests are broad and include human development, educational and positive psychology. I am really interested in learning about advanced statistics, especially longitudinal analyses (multilevel modeling and SEM). I volunteer regularly for different nonprofit organizations because I strongly believe that as a researcher, giving back to my community is essential. I am currently funded by a SSHRC Canada Graduate Scholarship - Joseph Armand Bombardier.
 
-I volunteer regularly for different nonprofit organizations because I strongly believe that as a researcher, giving back to my community is essential.I am the founder of Entropy, a scientific podcast, and also the creator of the Instagram page @giftedness.science. I also publish blog posts as a student ambassador of the Canadian Positive Psychology Association and I have a Youtube channel dedicated to science.
-
-I am currently funded by a SSHRC Canada Graduate Scholarship - Joseph Armand Bombardier.
-
-My research interests center around three themes: (1) parent-child relationships, (2) sleep, and (3) educational pathways.
+Her research interests center around three themes: (1) parent-child relationships, (2) sleep, and (3) educational pathways.

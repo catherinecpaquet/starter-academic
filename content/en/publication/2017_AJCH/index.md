@@ -3,7 +3,7 @@ title: "Early parent–child relationships and child sleep at school age"
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Applied Developmental Psychology*, *64*, 1-8. https://doi.org/10.1080/00029157.2016.1225252"
-#publication_short:
+#publication_short: 
 
 authors:
 - Catherine Cimon-Paquet
@@ -24,7 +24,7 @@ doi: "10.1016/j.appdev.2019.101057"
 
 external_link: "https://www.sciencedirect.com/science/article/abs/pii/S0193397318302521"
 
-links:
+links: 
 # - name: Full Article
 #   url: "https://www.sciencedirect.com/science/article/abs/pii/S0193397318302521"
 #  - name: Altmetric stats
@@ -37,7 +37,7 @@ abstract: Few studies have investigated the associations between parent–child 
 
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
 #  focal_point: ""
@@ -68,7 +68,7 @@ tags: []
 
 #url_code: '#'
 #url_dataset: '#'
-#url_pdf:
+#url_pdf: 
 #url_poster: '#'
 #url_preprint: '#'
 #url_project: ""
