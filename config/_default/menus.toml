@@ -12,37 +12,37 @@
   name = "Bio"
   url = "bio"
   weight = 20
-  
+
 [[main]]
   name = "Publications"
   url = "publications"
   weight = 30
 
-[[main]]
-  name = "News"
-  url = "news"
-  weight = 40
+#[[main]]
+#  name = "News"
+#  url = "news"
+#  weight = 40
 
-[[main]]
-  name = "Blog"
-  url = "blog"
-  weight = 45
+#[[main]]
+#  name = "Blog"
+#  url = "blog"
+#  weight = 45
 
-[[main]]
-  name = "Media"
-  url = "media"
-  weight = 50
-  
-[[main]]
-  name = "Tutorials"
-  url = "tutorials"
-  weight = 60
-  
+#[[main]]
+  #name = "Media"
+#  url = "media"
+#  weight = 50
+
+#[[main]]
+  #name = "Tutorials"
+#  url = "tutorials"
+#  weight = 60
+
  [[main]]
   name = "Contact"
   url = "contact"
   weight = 70
-  
+
  [[main]]
   name = "Donate"
   url = "donate"
