@@ -1,16 +1,14 @@
 ---
-title: "On suggestibility and placebo: A follow-up study"
+title: "Early parent–child relationships and child sleep at school age"
 
 # Publication name and optional abbreviated publication name.
-publication: "*The American Journal of Clinical Hypnosis*, *59*(4), 1-8. https://doi.org/10.1080/00029157.2016.1225252"
+publication: "*Journal of Applied Developmental Psychology*, *64*, 1-8. https://doi.org/10.1080/00029157.2016.1225252"
 #publication_short: 
 
 authors:
-- Michael Lifshitz
-- Eli O. Sheiner
-- Jay A. Olson
-- Rémi Thériault
-- Amir Raz
+- Catherine Cimon-Paquet
+- Émilie Tétreault
+- Annie Bernier
 
 publication_types:
 - "2"
@@ -20,19 +18,19 @@ add_badge: true
 
 featured: true
 
-date: "2017-03-16T00:00:00-04:00"
+date: "2019-07-16T00:00:00-04:00"
 
-doi: "10.1080/00029157.2016.1225252"
+doi: "10.1016/j.appdev.2019.101057"
 
-external_link: "https://www.tandfonline.com/doi/full/10.1080/00029157.2016.1225252"
+external_link: "https://www.sciencedirect.com/science/article/abs/pii/S0193397318302521"
 
 links: 
 # - name: Full Article
-#   url: "https://www.tandfonline.com/doi/full/10.1080/00029157.2016.1225252"
+#   url: "https://www.sciencedirect.com/science/article/abs/pii/S0193397318302521"
 #  - name: Altmetric stats
 #    url: "https://www.altmetric.com/details/77332149"
 
-abstract: Identifying what makes some people respond well to placebos remains a major challenge. Here, we attempt to replicate an earlier study in which we found a relationship between hypnotic suggestibility and subjective ratings of relaxation following the ingestion of a placebo sedative (Sheiner, Lifshitz, & Raz, 2016). To assess the reliability of this effect, we tested 34 participants using a similar design. Participants ingested a placebo capsule in one of two conditions':' (1) relaxation, wherein we described the capsule as a herbal sedative, or (2) control, wherein we described the capsule as inert. To index placebo response, we collected measures of blood pressure and heart rate, as well as self-report ratings of relaxation and drowsiness. Despite using a similar experimental design as in our earlier study, we were unable to replicate the correlation between hypnotic suggestibility and placebo response. Furthermore, whereas in our former experiment we observed a change in subjective ratings of relaxation but no change in physiological measures, here we found that heart rate dropped in the relaxation condition while subjective ratings remained unchanged. Even within a consistent context of relaxation, therefore, our present results indicate that placebos may induce effects that are fickle, tenuous, and unreliable. Although we had low statistical power, our findings tentatively accord with the notion that placebo response likely involves a complex, multifaceted interaction between traits, expectancies, and contexts.
+abstract: Few studies have investigated the associations between parent–child relationships and child sleep across distinct developmental stages using objective measures of sleep and while considering both parents. The current study aimed to investigate the longitudinal associations between the quality of parent–child interactions in toddlerhood and sleep duration and quality at early school age. The sample consisted of 88 families. The quality of mother–child and father–child interactions was assessed independently by observation when children were 18 months old. When children were 7 years old, their sleep was assessed objectively during three consecutive nights with actigraphy twice in a calendar year. Results showed that higher-quality mother–child (but not father–child) interactions predicted longer sleep duration nearly 6 years later. These findings suggest that some of the presumed influence of mother–child relationships on child sleep could be long-lasting.
 
 
 # ####################################################################
