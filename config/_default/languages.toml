@@ -11,7 +11,7 @@
   languageCode = "fr"
   contentDir = "content/fr"
   [fr.params]
-    email = "cimon_paquet.catherine@courrier.uqam.ca"
+    email = "cimon_paquet.catherine à courrier.uqam.ca"
     #phone = "999999"
     address = {street = "100, rue Sherbrooke Ouest", city = "Montréal", region = "Québec", postcode = "H2X 3P2", country = "Canada", country_code = "CA"}
     #directions = "Département de psychologie, Pavillon Adrien Pinard."
