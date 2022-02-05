@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Rémi Thériault
+title: Catherine Cimon-Paquet (She/Her)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student (Social Psychology)
+role: PhD Student (Developmental and Educational Psychology)
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -17,15 +17,12 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include social/implicit cognition, altruism, and dreams.
+bio: My research interests include interpersonal relationships, sleep, school motivation.
 
 # Interests to show in About widget
 interests:
-  - Implicit attitudes
-  - Self-regulation
-  - Morality
-  - Dreams
-  - Body ownership
+  - Relationships
+  - Sleep
 
 # Education to show in About widget
 education:
@@ -33,12 +30,13 @@ education:
   - course: PhD in Psychology
     institution: Université du Québec à Montréal
     year: 2024
-  - course: MSc in Psychiatry
-    institution: McGill University
-    year: 2018
+  - course: MSc in Psychology
+    institution: Université de Montréal
+    year: 2019
   - course: BA in Psychology
-    institution: McGill University
-    year: 2016
+    institution: Université de Montréal
+    year: 2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,31 +45,26 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:theriault.remi@courrier.uqam.ca
+    link: mailto:cimon_paquet.catherine@courrier.uqam.ca
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=NrfwEncAAAAJ
+    link: https://scholar.google.ca/citations?user=5-tHWakAAAAJ&hl=en
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Remi_Theriault
-  - icon: academia
-    icon_pack: ai
-    link: https://uqam.academia.edu/RemiTheriault
+    link: https://www.researchgate.net/profile/Catherine-Cimon-Paquet---
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/RemPsyc
+    link: https://twitter.com/ccpaquet
   - icon: github
     icon_pack: fab
-    link: https://github.com/RemPsyc
-  - icon: coffee
-    icon_pack: fas
-    link: https://www.paypal.com/paypalme/rempsyc
+    link: https://github.com/catherinecpaquet
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 ---
 
-Rémi Thériault obtained his BA Psychology and MSc Psychiatry from McGill University, Montréal, Québec. His undergraduate research has principally focused on exploring the mind-body connection through the placebo effect and the malleability of the sense of embodiment. His Master’s research focused on psychological strategies to increase empathy and reduce intergroup prejudice, such as taking others’ perspective using virtual reality technology. His current doctoral research at UQAM explores ways to boost altruism and reduce aggression through loving-kindness meditation. Overall, Rémi is passionate about putting social-psychological research to use to increase people’s wellbeing and intrinsic motivation to help one another.
+I am currently completing a PhD in Psychology, the founder of Entropy, a scientific podcast, and also the creator of the Instagram page @giftedness.science. I also publish blog posts as a student ambassador of the Canadian Positive Psychology Association and I have a Youtube channel dedicated to science. My research interests are broad and include human development, educational and positive psychology. I am really interested in learning about advanced statistics, especially longitudinal analyses (multilevel modeling and SEM). I volunteer regularly for different nonprofit organizations because I strongly believe that as a researcher, giving back to my community is essential. I am currently funded by a SSHRC Canada Graduate Scholarship - Joseph Armand Bombardier.
 
-His research interests center around three themes: (1) self-control and morality, (2) attention and concentration, and (3) wisdom and integrity.
+Her research interests center around three themes: (1) parent-child relationships, (2) sleep, and (3) educational pathways.
