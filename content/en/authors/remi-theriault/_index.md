@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Catherine Cimon-Paquet (She/Her)
+title: Catherine Cimon-Paquet
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Student (Developmental and Educational Psychology)
+role: PhD Candidate (Developmental and Educational Psychology)
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -23,6 +23,10 @@ bio: My research interests include interpersonal relationships, sleep, school mo
 interests:
   - Relationships
   - Sleep
+  - Educational pathways
+  - Motivation
+  - Passion
+  - Self-determination theory
 
 # Education to show in About widget
 education:

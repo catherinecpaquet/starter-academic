@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Rémi Thériault
+title: Catherine Cimon-Paquet
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Étudiant au doctorat (Psychologie sociale)
+role: Candidate au doctorat en psychologie
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -17,28 +17,29 @@ organizations:
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mes intérêts de recherche incluent la cognition sociale/implicite, l'altruisme, et les rêves.
+bio: Mes intérêts de recherche incluent les relations interpersonnelles, les parcours scolaires, le fonctionnement optimal et le sommeil.
 
 # Interests to show in About widget
 interests:
-  - Attitudes implicites
-  - Autorégulation
-  - Moralité
-  - Rêves
-  - Incarnation du corps
+- Relations interpersonnelles
+- Sommeil
+- Parcours scolaires
+- Motivation
+- Passion
+- Théorie de l'autodétermination
 
 # Education to show in About widget
 education:
   courses:   
-  - course: Doctorat en Psychologie
+  - course: Doctorat en psychologie
     institution: Université du Québec à Montréal
     year: 2024
-  - course: Maitrise en Psychiatrie
-    institution: Université McGill
-    year: 2018
-  - course: Baccalauréat en Psychologie
-    institution: Université McGill
-    year: 2016
+  - course: Maitrise en psychologie
+    institution: Université de Montréal
+    year: 2019
+  - course: Baccalauréat en psychologie
+    institution: Université de Montréal
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,32 +48,28 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:theriault.remi@courrier.uqam.ca
+    link: mailto:cimon_paquet.catherine@courrier.uqam.ca
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=NrfwEncAAAAJ
+    link: https://scholar.google.ca/citations?user=5-tHWakAAAAJ&hl=en
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Remi_Theriault
-  - icon: academia
-    icon_pack: ai
-    link: https://uqam.academia.edu/RemiTheriault
+    link: https://www.researchgate.net/profile/Catherine-Cimon-Paquet---
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/RemPsyc
+    link: https://twitter.com/ccpaquet
   - icon: github
     icon_pack: fab
-    link: https://github.com/RemPsyc
-  - icon: coffee
-    icon_pack: fas
-    link: https://www.paypal.com/paypalme/rempsyc
+    link: https://github.com/catherinecpaquet
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 ---
 
-Rémi Thériault a obtenu son baccalauréat en psychologie et sa maitrise en psychiatrie de l'Université McGill à Montréal, Québec. Ses recherches de premier cycle se sont principalement concentrées sur l'exploration de la connexion corps-esprit à travers l'effet placébo et la malléabilité du sens d'incarnation du corps. Ses recherches de maîtrise se sont concentrées quant à elles sur des stratégies psychologiques pour augmenter l'empathie et réduire les préjugés intergroupes, telles que prendre le point de vue des autres en utilisant la technologie de réalité virtuelle. Ses recherches doctorales actuelles à l'UQAM explorent comment stimuler l'altruisme et réduire l'agressivité grâce à la méditation d'amour-bienveillant. Globalement, Rémi est passionné par l'idée de mettre la recherche socio-psychologique à profit pour augmenter le bienêtre des gens et leur motivation intrinsèque à s'entraider.
- 
+Détenant un baccalauréat ainsi qu’une maîtrise en psychologie de l’Université de Montréal, je suis présentement candidate au doctorat en psychologie à l'UQAM. Je m'intéresse à des sujets de recherche variés dans le domaine du développement humain, de la psychologie de l'éducation et de la psychologie positive. Ma thèse doctorale porte sur le rôle des relations parent-enfant dans les parcours scolaires des jeunes, de l’enfance à l’âge adulte. Je m’intéresse particulièrement aux analyses statistiques avancées et à la science ouverte.
 
-Ses intérêts de recherche s'articulent autour de trois thèmes: (1) le contrôle de soi et la moralité, (2) l'attention et la concentration, et (3) la sagesse et l'intégrité.
+Je suis également fondatrice d'Entropie, un podcast en français de vulgarisation scientifique et de la page Instagram @douance.science, qui vise à sensibiliser la population québécoise à la douance. En ce sens, je fais partie du comité exécutif du Regroupement québécois pour la psychologie positive et du comité scientifique de l’Association québécoise pour la douance.
+
+Mon doctorat est financé par le Conseil de recherches en sciences humaines du Canada, les Fonds de recherche du Québec - Société et Culture ainsi que par l'UQAM.
